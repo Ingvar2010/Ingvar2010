@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ingvar
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning Python and arcade games.
-- 📫 How to reach me: https://git.ingvarice.com
+- 📫 How to reach me: https://github.com/IngvarIce
 - ⚡ Fun fact: This is a school account that I used.
 
 <!---
